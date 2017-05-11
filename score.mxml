@@ -3,7 +3,7 @@
   "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise version="2.0">
 	<work>
-		<work-title/>
+		<work-title>Dogma Maxima</work-title>
 	</work>
 	<identification>
 		<creator type="composer">Nolan Holden</creator>
